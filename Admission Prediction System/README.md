@@ -22,7 +22,7 @@ Outputs the probability of admission for each applicant.
 ## High Accuracy: 
 Reduces guesswork with a model accuracy of 82%.
 ## Prerequisites
-Python (3.x)
+Python 3
 Libraries: NumPy, pandas, matplotlib, scikit-learn
 
 ![Restaurant Profit Prediction](result.png)
