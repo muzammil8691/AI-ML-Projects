@@ -25,5 +25,5 @@ Reduces guesswork with a model accuracy of 82%.
 Python (3.x)
 Libraries: NumPy, pandas, matplotlib, scikit-learn
 
-![Restaurant Profit Prediction](result.png.png)
+![Restaurant Profit Prediction](result.png)
 
