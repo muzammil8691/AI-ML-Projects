@@ -1,4 +1,5 @@
 # Handwritten Digit Recognition: Multi-Digit Classification (0–9)
+### 99% Accuracy on 5000 Images
 This project focuses on the recognition of handwritten digits ranging from 0 to 9 using advanced machine learning techniques. Developed as part of the Machine Learning course assignment by Andrew Ng at Stanford University, the project highlights the application of supervised learning to solve real-world problems in pattern recognition.
 
 ## Dataset
